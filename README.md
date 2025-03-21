@@ -93,20 +93,59 @@ Agile works best for projects that:
 
 ## When is Waterfall More Beneficial?
 Waterfall is ideal for projects that:
-✔️ Have clear, fixed requirements from the start
-✔️ Have strict regulations or compliance needs
-✔️ Don’t require frequent changes
-✔️ Have a well-defined scope and budget
+- Have clear, fixed requirements from the start
+- Have strict regulations or compliance needs
+- Don’t require frequent changes
+- Have a well-defined scope and budget
 
-Examples of Waterfall Projects:
-Banking & Financial Systems: Software for banking transactions needs to meet strict security and regulatory standards, making a structured approach more reliable.
-Government & Infrastructure Projects: Systems like tax collection software or public transport management require thorough planning before development begins.
-Healthcare & Medical Devices: Hospital management software or embedded medical device software must comply with strict regulations (e.g., FDA, HIPAA), so Waterfall ensures everything is well-documented and tested.
-Construction & Engineering Software: A bridge design system or building management software requires a fixed plan since changes midway can be costly.
-Enterprise Resource Planning (ERP) Systems: Large organizations implementing ERP systems (like SAP or Oracle) often use Waterfall since the entire business process must be planned before deployment.
+## Examples of Waterfall Projects:
+- Banking & Financial Systems: Software for banking transactions needs to meet strict security and regulatory standards, making a structured approach more reliable.
+- Government & Infrastructure Projects: Systems like tax collection software or public transport management require thorough planning before development begins.
+- Healthcare & Medical Devices: Hospital management software or embedded medical device software must comply with strict regulations (e.g., FDA, HIPAA), so Waterfall ensures everything is well-documented and tested.
+- Construction & Engineering Software: A bridge design system or building management software requires a fixed plan since changes midway can be costly.
+- Enterprise Resource Planning (ERP) Systems: Large organizations implementing ERP systems (like SAP or Oracle) often use Waterfall since the entire business process must be planned before deployment.
 
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
 
+Quality assurance (QA) is essential in software development to ensure the final product is reliable, secure, and meets user expectations. Some key methods to maintain high quality throughout a project include:
+
+## Continuous Testing
+- Unit Testing: Developers test individual components to ensure they function correctly.
+- Integration Testing: Ensures different modules work well together.
+- System Testing: Tests the entire software to check for bugs and performance issues.
+- User Acceptance Testing (UAT): End-users test the product to confirm it meets their needs.
+
+These help catch and fix bugs early thus preventing costly fixes later.
+
+## Code Reviews & Peer Programming
+- Regularly reviewing code with team members helps catch errors and improves code quality.
+- Pair programming (where two developers work together on the same code) can reduce mistakes.
+
+This encourages knowledge sharing and ensures clean, efficient code.
+
+## Automated Testing
+- Using tools like Selenium, JUnit, or Cypress to automate repetitive tests.
+- Continuous Integration/Continuous Deployment (CI/CD) pipelines run tests automatically before deployment.
+
+ This helps save time and ensure new updates don’t break existing functionality.
+
+## Clear Documentation & Standards
+- Maintaining proper documentation helps teams understand how the software should function.
+- Following coding standards improves readability and reduces technical debt.
+
+This prevents miscommunication and makes future maintenance easier.
+
+## Performance & Security Testing
+- Load testing ensures the software performs well under heavy traffic.
+- Security testing identifies vulnerabilities to prevent cyber threats.
+
+This ensures the software is fast, reliable, and safe for users.
+
+# Why is Maintaining High Standards Important?
+- Better User Experience – A high-quality product is easy to use and meets customer expectations.
+- Reduces Costs & Time – Fixing bugs early is cheaper and faster than fixing them after deployment.
+- Enhances Reputation & Trust – Poor quality software damages a company’s credibility and can lead to lost customers.
+- Prevents Security Risks – Weak software security can lead to data breaches and financial losses.
 
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
 
