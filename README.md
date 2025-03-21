@@ -149,8 +149,45 @@ This ensures the software is fast, reliable, and safe for users.
 
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
 
+**Project scope** is the clear definition of what a project includes and what it doesn’t. It covers goals, deliverables, deadlines, and constraints.
+
+- It prevents Scope Creep: Without a well-defined scope, extra features or tasks may sneak in, delaying the project and increasing costs.
+- It sets Clear Expectations: Ensures all stakeholders agree on what will be delivered and when.
+- It improves Resource Management: Helps allocate time, budget, and workforce efficiently.
+- It enhances Risk Management: Identifies potential obstacles early, making it easier to plan for them.
+
+**A Work Breakdown Structure (WBS)** is a hierarchical breakdown of a project into smaller, manageable tasks. It helps teams see the full scope of work in an organized way.
+
+Example of WBS for a Website Development Project:
+## Planning
+This involves the following:
+- Define requirements
+- Create wireframes
+- Approve design
+
+## Development
+- Frontend development
+- Backend development
+- Database setup
+
+## Testing
+- Functional testing
+- Security testing
+- Performance testing
+
+## Deployment
+- Server setup
+- Launch website
+- Post-launch support
+  
+# Why is WBS Useful?
+- Breaks Down Complex Work: Large projects become easier to manage by dividing them into smaller, achievable tasks.
+- Improves Task Allocation: Assigning responsibilities becomes clear, avoiding confusion.
+- Enhances Progress Tracking: Helps monitor milestones and ensure deadlines are met.
+- Supports Budgeting & Time Estimation: More accurate cost and time estimates can be made for each phase.
 
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
+
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
