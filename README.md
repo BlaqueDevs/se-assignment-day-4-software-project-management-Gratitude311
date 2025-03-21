@@ -279,6 +279,29 @@ When explaining your software solution, the goal is to highlight its purpose and
 
 ## 12. What data is available regarding the market size and growth potential for your software?
 
+## Total Addressable Market (TAM)
+- The overall demand for software in your industry.
+- Estimate how many businesses or individuals could benefit from your solution.
 
+## Serviceable Available Market (SAM)
+- The portion of TAM that your software can realistically serve based on your target audience and pricing model.
+  
+## Serviceable Obtainable Market (SOM)
+- The realistic market share you can capture in the next few years.
+
+## Industry Growth Trends
+- Look at reports on how fast the industry is expanding.
+  
+## Competitor Analysis
+- Research competitors' market share and growth patterns.
+- Identify gaps where your software can stand out.
+
+## Customer Demand & Adoption Rate
+- How many businesses or individuals are actively seeking solutions like yours?
+- Are companies switching from outdated methods to software-driven solutions?
+
+## Monetization Potential
+- Revenue models: subscription-based, one-time payment, freemium-to-premium, etc.
+- Projected annual revenue per customer 
 
 ## 13. How can understanding market trends inform your software’s positioning and development?
